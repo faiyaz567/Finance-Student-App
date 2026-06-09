@@ -4,6 +4,15 @@ A Python-based personal finance application designed for students to manage inco
 
 ---
 
+👥 Team Introduction
+
+This project was developed as a collaborative effort by:
+
+Faiyaz Wasek Tahsin
+Sajjad Hossain
+
+Our goal was to create a practical budgeting solution that helps students manage their finances effectively, track spending habits, plan future purchases, and make informed financial decisions. Through this project, we applied Object-Oriented Programming (OOP), file handling, data management, and financial analysis concepts using Python.
+
 ## 📌 Features
 
 ### 💰 Income Management
@@ -49,4 +58,3 @@ A Python-based personal finance application designed for students to manage inco
 - CSV File Handling
 - Standard Python Libraries
 
----
